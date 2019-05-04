@@ -1,0 +1,12 @@
+node_modules/
+package-lock.json
+dist/
+logs/*.log
+*.pyc
+*.map
+corpus/news/*
+corpus/parl/*
+corpus/README.md
+corpus/corpus.zip
+trainData/*
+
